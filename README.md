@@ -7,6 +7,8 @@
     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
+  
+  <img src="public/PROJECT%20PIC.png" alt="Project Photo" width="800" />
 </div>
 
 ---
